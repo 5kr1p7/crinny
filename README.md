@@ -13,8 +13,4 @@ Currently using Python for most of my projects, actively learning Nim. ❤️ In
 - <a href="https://vk.me/crinnynotgay"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/1024px-VK.com-logo.svg.png" width=16 height=16 /> VK</a>
 
 ## Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=crinny&show_icons=true&count_private=true">
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crinny&layout=compact">
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=crinny&show_icons=true&count_private=true">
