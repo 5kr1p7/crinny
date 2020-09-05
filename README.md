@@ -11,6 +11,7 @@ Currently using Python for most of my projects, actively learning Nim. ❤️ In
 ## Contact me 💭
 - <a href="https://t.me/crinny"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" width=16 height=16 /> Telegram</a>
 - <a href="https://vk.me/crinnynotgay"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/1024px-VK.com-logo.svg.png" width=16 height=16 /> VK</a>
+- <a href="mailto:crinny@protonmail.com">📩 E-mail: `crinny@protonmail.com`</a>
 
 ## Donate 💸
 - <a href="https://qiwi.com/n/CRINNY"><img src="https://static.qiwi.com/img/providers/300x300/qiwi.png" width=16 height=16 /> QIWI Wallet</a>
