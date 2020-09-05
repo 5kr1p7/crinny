@@ -1,6 +1,6 @@
 ### Hi there (*^ω^) ![Profile views](https://gpvc.arturio.dev/crinny)
 
-![he](https://github.com/crinny/crinny/blob/master/he.gif)
+![he](https://github.com/crinny/crinny/raw/master/he.gif)
 
 ## My stack 👨‍💻
 
